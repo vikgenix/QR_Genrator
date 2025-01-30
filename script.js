@@ -25,3 +25,4 @@ generateBtn.addEventListener("click", () => {
     container.classList.add("active");
     qrCodeDiv.style.display = "block";  
 });
+
